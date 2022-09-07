@@ -1,0 +1,6 @@
+C:\Users\anton\Developer\VS2022\CsFoxySmtp64\bin\Release\CsFoxySmtp64.dll
+C:\Users\anton\Developer\VS2022\CsFoxySmtp64\bin\Release\CsFoxySmtp64.pdb
+C:\Users\anton\Developer\VS2022\CsFoxySmtp64\obj\Release\CsFoxySmtp64.csproj.AssemblyReference.cache
+C:\Users\anton\Developer\VS2022\CsFoxySmtp64\obj\Release\CsFoxySmtp64.csproj.CoreCompileInputs.cache
+C:\Users\anton\Developer\VS2022\CsFoxySmtp64\obj\Release\CsFoxySmtp64.dll
+C:\Users\anton\Developer\VS2022\CsFoxySmtp64\obj\Release\CsFoxySmtp64.pdb
